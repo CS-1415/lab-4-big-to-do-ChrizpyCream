@@ -1,0 +1,15 @@
+C:\Users\xxlaz\cs1410\lab-4-big-to-do-ChrizpyCream\bin\Debug\net8.0\lab-4-big-to-do-ChrizpyCream.exe
+C:\Users\xxlaz\cs1410\lab-4-big-to-do-ChrizpyCream\bin\Debug\net8.0\lab-4-big-to-do-ChrizpyCream.deps.json
+C:\Users\xxlaz\cs1410\lab-4-big-to-do-ChrizpyCream\bin\Debug\net8.0\lab-4-big-to-do-ChrizpyCream.runtimeconfig.json
+C:\Users\xxlaz\cs1410\lab-4-big-to-do-ChrizpyCream\bin\Debug\net8.0\lab-4-big-to-do-ChrizpyCream.dll
+C:\Users\xxlaz\cs1410\lab-4-big-to-do-ChrizpyCream\bin\Debug\net8.0\lab-4-big-to-do-ChrizpyCream.pdb
+C:\Users\xxlaz\cs1410\lab-4-big-to-do-ChrizpyCream\obj\Debug\net8.0\lab-4-big-to-do-ChrizpyCream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxlaz\cs1410\lab-4-big-to-do-ChrizpyCream\obj\Debug\net8.0\lab-4-big-to-do-ChrizpyCream.AssemblyInfoInputs.cache
+C:\Users\xxlaz\cs1410\lab-4-big-to-do-ChrizpyCream\obj\Debug\net8.0\lab-4-big-to-do-ChrizpyCream.AssemblyInfo.cs
+C:\Users\xxlaz\cs1410\lab-4-big-to-do-ChrizpyCream\obj\Debug\net8.0\lab-4-big-to-do-ChrizpyCream.csproj.CoreCompileInputs.cache
+C:\Users\xxlaz\cs1410\lab-4-big-to-do-ChrizpyCream\obj\Debug\net8.0\lab-4-big-to-do-ChrizpyCream.sourcelink.json
+C:\Users\xxlaz\cs1410\lab-4-big-to-do-ChrizpyCream\obj\Debug\net8.0\lab-4-big-to-do-ChrizpyCream.dll
+C:\Users\xxlaz\cs1410\lab-4-big-to-do-ChrizpyCream\obj\Debug\net8.0\refint\lab-4-big-to-do-ChrizpyCream.dll
+C:\Users\xxlaz\cs1410\lab-4-big-to-do-ChrizpyCream\obj\Debug\net8.0\lab-4-big-to-do-ChrizpyCream.pdb
+C:\Users\xxlaz\cs1410\lab-4-big-to-do-ChrizpyCream\obj\Debug\net8.0\lab-4-big-to-do-ChrizpyCream.genruntimeconfig.cache
+C:\Users\xxlaz\cs1410\lab-4-big-to-do-ChrizpyCream\obj\Debug\net8.0\ref\lab-4-big-to-do-ChrizpyCream.dll
